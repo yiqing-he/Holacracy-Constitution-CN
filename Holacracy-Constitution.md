@@ -1,4 +1,4 @@
-# **Holacracy Constitution - Development Version**
+# **Holacracy章程 - version 4.1**
 
 
 ## Preamble
