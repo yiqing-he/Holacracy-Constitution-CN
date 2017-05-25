@@ -4,9 +4,9 @@
 
 ## 序言
 
-本 **"章程"** 定义了组织中治理与运营的规则与流程。 一旦组织中的**“掌权人”**同意采纳合弄制，这些规则将成为该**“组织”**的正式权力结构。 这里的组织，可以是掌权人拥有自主管理和运营权力的整个组织，也可以是其中的一个部分。掌权人以及任何同意参与组织治理与运营的个体（组织的**“伙伴”**）将依据此章程被授予相应的权力，同时也同意承担其规定的义务与约束。
+本 **"章程"** 定义了组织中治理与运营的规则与流程。 一旦组织中的**"掌权人"**同意采纳合弄制，这些规则将成为该**“组织”**的正式权力结构。 这里的组织，可以是掌权人拥有自主管理和运营权力的整个组织，也可以是其中的一个部分。掌权人以及任何同意参与组织治理与运营的个体（组织的**“伙伴”**）将依据此章程被授予相应的权力，同时也同意承担其规定的义务与约束。
 
-## 章节1: 激活角色
+## 章节 1: 激活角色
 
 ### 1.1 角色的定义
 
@@ -56,84 +56,84 @@
 
 本节授予的管辖领域自主权还受本章程 2.1.3的所定义的一些约束限制。 
 
-## Article 2: Circle Structure
+## 章节 2: 圈子结构
 
-### 2.1 Circle Basics
+### 2.1 圈子基础
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
+**“圈子”**也是角色，该角色将其自身分解，通过定义自己所包含角色来实现其目的、控制其管辖领域、并履行其职责。由圈子定义的角色是圈子的**“被定义角色”**，所有担任被定义角色的人都是该圈子的**“圈子成员”**。   
 
-#### 2.1.1 Defining Roles & Policies
+#### 2.1.1 定义角色和政策
 
-Each Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+每个圈子使用本章程第三章所描述的 **“治理流程”** 定义和修改圈子内的角色或用于管理圈子管辖领域的政策。任何人不得在治理流程之外定义或修改圈子的角色或政策， 除非本章程中另有明确规则许可。 
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+此外，为定义限制圈子内角色的政策， 每个圈子可以控制自己的功能和活动，就如同控制圈子的管辖领地一样。
 
-#### 2.1.2 Roles May Impact Circle Domains
+#### 2.1.2 角色可影响圈子管辖领域
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+当在一个圈子中担任了某个角色之后，你可以使用和影响该圈子控制的任何管辖领域，或者圈子有权影响的任何管辖领域。 但是，你必须遵守任何针对圈子自身的限制性条件，或者圈子设定的政策限制，并且在此情况下你不可以按照章程1.4节规定的那样完全控制和管理这种管辖领域。
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+另外， 你不可以转移或处理掉某个管辖领域自身，或者该管辖领域内的任何重要资产， 你也不可严重限制圈子对管辖领域的任何权力。但是，如果某个掌握所需权力的角色或流程许可你这么做，你可以不受上述限制。
 
-#### 2.1.3 Delegation of Control
+#### 2.1.3 控制权的委托
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+当一个圈子为圈子内某个角色设定了一个管辖领域时，圈子对该管辖领域的影响、控制和管理权力就委托给了这个角色，圈子也不再享有该权力。 
 
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+然而，圈子保留有权力修改和取消对该管辖领域的委托， 或者制定或修改政策进一步授予或限制该角色在该管辖领域中的权力。 
 
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+默认情况下， 任何通过这种方法进行委托的管辖领域，受委托方都无权处理掉管辖领域自身，或者管辖领域中任何重要的资产，或者将这些资产转移到圈子之外，或者严重限制圈子对该管辖领域的任何权力。 圈子也可以将上述保留的权力委托出去， 但需要通过圈子的政策对该种许可进行明确声明。 
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+在任何情况下，所有关于管辖领地的委托，都不可以超越圈子自身原本拥有的权力。
 
-### 2.2 Circle Lead Link
+### 2.2 圈子的主链接（Lead Link)
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+每个圈子有一个 **“主链接角色”**，其定义请参考附录A， 本节将进一步界定主链接的责任和权力。
 
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+担任主链接角色和行驶主链接职权的人被成为圈子的 **“主链接”**。
 
-#### 2.2.1 Holds Undifferentiated Functions
+#### 2.2.1 承担未被分配的职能
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+圈子的主链接继承了圈子自身的目的和任何职责，并控制圈子拥有的所有管辖领域，就好比圈子就是一个角色，而主链接担任了该角色。 但是，这仅仅适用于圈子的这些职责及管辖领域还没有被分配给圈子内的其他角色，或者被委托出去。
 
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+而且,主链接不可以制定政策限制圈子内的角色，这类政策只能通过圈子的治理流程来制定。
 
-#### 2.2.2 Defines Priorities & Strategies
+#### 2.2.2 设定优先级和战略
 
-A Circle’s Lead Link may define relative priorities for the Circle.
+圈子的主链接可以为圈子设定相对的优先级。 
 
-In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+此外，主链接还可以为圈子设定一个较为宽泛的 **“战略”** , 或者多项战略，这类战略提供一种基本的决策原则，用于指导圈子成员持续地自行确定优先级。
 
-#### 2.2.3 Amending the Lead Link Role
+#### 2.2.3 修改主链接角色
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+圈子不可以给自己的主链接角色增加职责或其它的职能，或者修改该角色的目的，或者完全移除该角色。 
 
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+然而， 圈子可以移除其主链接角色的任何职责、管辖领域、或者功能， 一种方式是将这些权力赋予圈子内的另外一个角色，或者定义一种替代办法接管他们。 当这种情况发生时，主链接角色的相关元素或权力自动被废除，直至委托关系终止。
 
-### 2.3 Core Circle Members
+### 2.3 圈子核心成员
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+圈子中的某些成员可被允许参加圈子的治理流程，这些成员即为该圈子的 **“圈子核心成员”**。
 
-The Core Circle Members are determined using the following rules:
+圈子核心成员是由以下规则确定的:
 
-#### 2.3.1 Base Membership
+#### 2.3.1 基础会员制
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+除非是基于本节条款有特殊任命或例外，一个圈子的圈子核心成员包括：
 
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
+- **(a)** 圈子中有担任被定义角色的伙伴;
+- **(b)** 圈子的主链接，见章程2.2条款定义;
+- **(c)** 圈子中选举出来的每位代表链接，见章程2.6.4条款定义;
+- **(d)** 每一位进入圈子的跨圈链接，见章程2.7条款定义。
 
-#### 2.3.2 Exclusion for Multi-Filled Roles
+#### 2.3.2 多人担任的角色如何确定圈子核心成员
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+如果有多位伙伴都担任圈子中的同一角色， 圈子可以制定一项政策，用于限定他们中有多少人可以列席为圈子核心成员。 不过，该政策必须允许至少有一位该角色的担当者作为代表成为圈子核心成员，并且需要明确规定代表人选如何被确定。
 
-The Policy can define a pathway for the excluded Partners to process Tensions related to that Role. If it does not, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would if the Role were a Sub-Circle.
+此外，作为该角色的代表人选有义务考虑与处理同角色其他伙伴们的张力，此时这位伙伴就好比是子圈子代表链接应该做的事情。如果政策有针对该角色的其他未能成为圈子核心成员的伙伴们的张力处理替代办法，则遵守该政策的规定。
 
-#### 2.3.3 Exclusion for Minor Allocations
+#### 2.3.3 针对非主要职能角色的情形
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+有时候，某位伙伴只在某个被定义角色上分配了非常少量的、几乎可以忽略不计的注意力。 如果圈子的主链接有理由相信这是实情， 主链接可以排除该伙伴担任圈子的核心成员。 
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+如果有某位伙伴因为以上原因而未成为圈子核心成员， 主链接有义务考虑和处理被排除在外的伙伴的张力，此时主链接就好比是子圈子的代表链接，除非另有可替代途径被定义出来用于处理该角色的张力。
 
 #### 2.3.4 Special Appointments of Core Members
 
