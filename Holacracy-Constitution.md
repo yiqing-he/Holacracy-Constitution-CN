@@ -1,61 +1,60 @@
-# **Holacracy章程 - version 4.1**
+# **Holacracy章程**
+# **版本：4.1**
 
 
-## Preamble
+## 序言
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+本 **"章程"** 定义了组织中治理与运营的规则与流程。 一旦组织中的**“掌权人”**同意采纳合弄制，这些规则将成为该**“组织”**的正式权力结构。 这里的组织，可以是掌权人拥有自主管理和运营权力的整个组织，也可以是其中的一个部分。掌权人以及任何同意参与组织治理与运营的个体（组织的**“伙伴”**）将依据此章程被授予相应的权力，同时也同意承担其规定的义务与约束。
 
-## Article 1: Energizing Roles
+## 章节1: 激活角色
 
-### 1.1 Definition of a Role
+### 1.1 角色的定义
 
-The Organization’s Partners will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+合弄组织中的伙伴通常需要基于某个被组织明确定义了的角色开展工作。**“角色”**是组织结构中的一个组成部分，有一个描述性的名字和以下一个或多个属性:
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
-- **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
+- **(a)** 一个 **目的**（Purpose）: 目的是角色为了组织利益而需要追求或者表达的一种能力、潜能、或者非常难以实现的一个目标。
+- **(b)** 一个或多个**管辖领域** (Domain)：管辖领域是角色代表组织拥有排他控制权和管理权的一些事项，比如组织的资产、功能或流程。
+- **(c)** 一项或多项**职责** (Accountability)：职责是角色需要持续执行的组织的活动。
 
-### 1.2 Responsibilities of Role-Filling
+### 1.2 角色承担者责任
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+作为组织的一名伙伴，一旦你被分配到某个角色并且接受担任该角色，你将承担以下责任：
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 处理张力
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+你有责任监控你的角色目的与职责是如何表达的，将其与你认为的理想的可能表达方式进行比较，找出当前现状与你所感知潜在可能之间的差距（每一个差距就是**张力**）。 你也有责任基于本章程赋予你的权力以及其它机制努力去解决这些张力。
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 处理目的与职责
 
-You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
+你有责任定期考虑如何履行你的角色的目的和每项职责，通过定义：
+- **(a)** **“下一步行动”**(Next-Actions), 是你可以立刻执行的一些行动，以及那些至少在没有其它优先事项情况下适宜于立即开展的一些行动。
+- **(b)** **“项目”**(Projects), 是需要执行多个连续的行动才能达成的特定结果，以及那些至少在没有其它优先事项下适宜于持续努力的结果。
 
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+#### 1.2.3 处理项目
 
-#### 1.2.3 Processing Projects
+你有责任定期斟酌如何完成为你的角色而正在积极实施的项目，包括定义出任何有助于项目推进的下一步行动。
 
-You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+#### 1.2.4 跟踪项目、下一步行动、和张力
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+你有责任在数据库或类似表格中记录和跟踪你所担任角色下的所有项目与下一步行动，并定期回顾和更新，确保角色现有和潜在的工作清单真实可靠。 你还有责任跟踪基于你的角色你所发现的任何张力，直到你把这些张力处理成可行的项目或下一步行动，或者将其解决。 
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+#### 1.2.5 分配注意力和资源
 
-#### 1.2.5 Directing Attention & Resources
+无论任何时候你有时间为你的角色工作，你就有责任考虑在这个时间点你适合采取哪些可能的下一步行动，兼顾效能与效果， 并执行你相信最能为组织增加价值的行动。 
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+### 1.3 行动的自主权
 
-### 1.3 Authority to Act
+作为组织中被分配有角色的伙伴，你有权力执行任何你有充分理由相信有助于实现你的角色目的或职责的任何下一步行动。
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+但是，你不能在其它角色或主权实体拥有的管辖领域里施加控制或导致重大影响，除非你获得了他们的许可。本段落中所授予行动自主权还受章程 2.1.3 的进一步限制。
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
+### 1.4 管辖领域的自主权
 
-### 1.4 Authority over Domains
+作为组织中被分配有角色的伙伴，你有权控制与管理你角色下的每个管辖领域。 当其他人要求影响你的某个管辖领域时， 你可以根据个案酌情考虑接受或拒绝其请求。
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+你也可以为你的管辖领域设立**“政策”**，要么允许他人在你的某个管辖领域内可施加控制或重大影响，要么在未经许可情况下限制他人的这种行为。 在政策生效前，你必须将政策发布在一个论坛上，以便所有有可能受影响的伙伴能够看到。 
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
-
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
-
+本节授予的管辖领域自主权还受本章程 2.1.3的所定义的一些约束限制。 
 
 ## Article 2: Circle Structure
 
