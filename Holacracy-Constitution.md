@@ -4,7 +4,7 @@
 
 ## 序言
 
-本 **"章程"** 定义了组织中治理与运营的规则与流程。 一旦组织中的**"掌权人"**同意采纳合弄制，这些规则将成为该**“组织”**的正式权力结构。 这里的组织，可以是掌权人拥有自主管理和运营权力的整个组织，也可以是其中的一个部分。掌权人以及任何同意参与组织治理与运营的个体（组织的**“伙伴”**）将依据此章程被授予相应的权力，同时也同意承担其规定的义务与约束。
+本 **"章程"** 定义了组织中治理与运营的规则与流程。 一旦组织中的 **"掌权人"** 同意采纳合弄制，这些规则将成为该 **“组织”** 的正式权力结构。 这里的组织，可以是掌权人拥有自主管理和运营权力的整个组织，也可以是其中的一个部分。掌权人以及任何同意参与组织治理与运营的个体（组织的 **“伙伴”** ）将依据此章程被授予相应的权力，同时也同意承担其规定的义务与约束。
 
 ## 章节 1: 激活角色
 
@@ -52,7 +52,7 @@
 
 作为组织中被分配有角色的伙伴，你有权控制与管理你角色下的每个管辖领域。 当其他人要求影响你的某个管辖领域时， 你可以根据个案酌情考虑接受或拒绝其请求。
 
-你也可以为你的管辖领域设立**“政策”**，要么允许他人在你的某个管辖领域内可施加控制或重大影响，要么在未经许可情况下限制他人的这种行为。 在政策生效前，你必须将政策发布在一个论坛上，以便所有有可能受影响的伙伴能够看到。 
+你也可以为你的管辖领域设立 **“政策”** ，要么允许他人在你的某个管辖领域内可施加控制或重大影响，要么在未经许可情况下限制他人的这种行为。 在政策生效前，你必须将政策发布在一个论坛上，以便所有有可能受影响的伙伴能够看到。 
 
 本节授予的管辖领域自主权还受本章程 2.1.3的所定义的一些约束限制。 
 
@@ -135,133 +135,131 @@
 
 如果有某位伙伴因为以上原因而未成为圈子核心成员， 主链接有义务考虑和处理被排除在外的伙伴的张力，此时主链接就好比是子圈子的代表链接，除非另有可替代途径被定义出来用于处理该角色的张力。
 
-#### 2.3.4 Special Appointments of Core Members
+#### 2.3.4 核心成员的特别任命
 
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+除本章程所要求的圈子核心成员之外，圈子的主链接可以特别指定额外人员担任圈子的核心成员，并且可以在任何时候撤销这些特殊任命。
 
-### 2.4 Role Assignment
+### 2.4 角色任命
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle and revoke these assignments at any time, unless these authorities have been limited or delegated.
+圈子的主链接可以指派人员担任圈子中的被定义角色， 除非该权力已受限制或已授权给其他角色。
 
-#### 2.4.1 Unfilled Roles
+#### 2.4.1 未填充角色
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+任何时候圈子中如果有被定义角色尚未被人填充，圈子的主链接将需要填充该角色。
 
-#### 2.4.2 Assigning Roles to Multiple People
+#### 2.4.2 指派角色给多人
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+主链接可以指派多人担任同一个被定义角色， 只要这种做法不会降低角色的清晰度，即通常情况下谁该行驶该角色的职责与权力。
 
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+为保持这种清晰度, 一种方法是主链接在任命的同时为某人指定一个“聚焦点”， 作为此人以该角色行事的时候的一个聚焦领域或场景。
 
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+如果角色任命中包含有一个聚焦点，该角色的目的、职责及管辖领域只在为这个人指定的聚焦范围内适用。
 
-#### 2.4.3 Resignation from Roles
+#### 2.4.3 角色的卸任
 
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
+当你担任一个角色时，除非你令有承诺，否则你可以在任何时候从该角色卸任，你只需要告知有权控制该角色任命的那个人 -- 通常是圈子的主链接。
 
-### 2.5 Elected Roles
+### 2.5 被选举角色
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+每个圈子包含有 **“引导员角色”**、 **“秘书角色”**、以及**“代笔链接角色”** 这些角色的定义参见《附录A》。 这些都是圈子的“被选举角色”， 填充这些角色的人分别是圈子的 **“引导员”**、 **“秘书”**、以及 **“代表链接”** 。
 
-#### 2.5.1 Elections & Eligibility
+#### 2.5.1 选举和被选举资格
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article 3.
+每个圈子的引导员基于本章程章节3部分定义的流程和规则引导定期的选举，从圈子核心成员中选举人员填充各个被选举角色。 圈子内所有核心成员都有资格参加选举，并且每位成员都可以担任多个被选举角色；但圈子的主链接除外，主链接不可以被选举成为引导员或者代表链接。 
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+#### 2.5.2 选举任期和再次选举
 
-#### 2.5.2 Election Terms & Revisiting
+在选举流程中，引导员需要为每次选举的角色规定一个任期。 在任期结束后， 秘书负责及时发起该角色的新一轮选举。不过，即使在任期结束之前，任何圈子核心成员都可以基于章节3部分定义的流程触发一次新的选举。
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article 3.
+#### 2.5.3 修正被选举角色
 
-#### 2.5.3 Amending Elected Roles
+圈子可以向被选举角色添加职责或管辖领域， 也看可以修改或移除这些添加项。
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+不过，圈子只能为本圈子的代表链接添加职责，而不能为来自于子圈子的代表链接添加职责。
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
+此外， 任何圈子都不可以修改或去除本章程赋予被选举角色的目的、管辖领域、职责、或任何被授予的权力， 或者彻底去除被选举角色。
 
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+#### 2.5.4 选举角色替代者
 
-#### 2.5.4 Surrogates for Elected Roles
+在被选举角色尚未被填充、或者当某个被选举角色担任者不能参加圈子的会议、或者感到不能给或不愿意履行角色的义务时，该角色可以暂时由一位替代者填充。 
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+在需要有替代者的任何情形下，将基于以下排序确定替代者人选：
 
-In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+- **(a)** 由被替代人明确指定的某人; 或
+- **(b)** 圈子当前的引导员; 或
+- **(c)** 圈子当前的秘书; 或
+- **(d)** 圈子的主链接; 或
+- **(e)** 圈子核心成员中首位宣布他或她成为替代者的人。
 
-- **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+### 2.6 子圈子
 
-### 2.6 Sub-Circles
+通过治理流程，一个圈子可以将其被定义角色扩展成完整的圈子。 当这种情况发生时， 新圈子变成该圈子的**“子圈子”**，而原先的圈子变成新的子圈子的**“上级圈子”**。
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+#### 2.6.1 更改子圈子
 
-#### 2.6.1 Modifying Sub-Circles
+一个圈子可以更改其子圈子的目的、管辖领域、或职责。
 
-A Circle may modify the Purpose, Domains, or Accountabilities of a Sub-Circle. 
+一个圈子还可以把本圈子的被定义角色或政策移入到一个子圈子内，或者把子圈子内的相应角色或政策移到本圈子。
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
+任何这种更改只能通过圈子的治理流程进行。 Any of these modifications may only be done via the Governance Process of the Circle.
 
-Any of these modifications may only be done via the Governance Process of the Circle.
+除了上述可被许可的更改，圈子不可以更改子圈子中的任何被定义角色或政策。
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+#### 2.6.2 移除子圈子
 
-#### 2.6.2 Removing Sub-Circles
+通过圈子的治理流程，圈子可以移除子圈子。 圈子可以彻底移除子圈子以及子圈子中的任何东西， 或者选择性地保留子圈子中的某些元素放到本圈子。一个子圈子也可以通过圈子坍陷成为一个角色的方式被移除。
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+#### 2.6.3 子圈子的主链接
 
-#### 2.6.3 Lead Link to Sub-Circle
+圈子的主链接可以指派人员填充每个子圈子中的主链接角色, 应用规则与主链接对圈子内任何被定义角色的人员指派相同。
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+#### 2.6.4 进入上级圈子的代表链接
 
-#### 2.6.4 Rep Link to Super-Circle
+每个圈子通常要选举一位代表链接进入上级圈子。不过，如果一个圈子除了主链接和跨圈链接之外没有其他的核心成员，那么这种选举就没有必要。 在这种情况下， 即使在子圈子中有作选举， 被选举的代表链接也不会成为上级圈子的圈子核心成员。
 
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+### 2.7 跨圈链接
 
-### 2.7 Cross Linking
+圈子可以创建一个 **“跨圈链接政策”**， 邀请其他机构或团体参加圈子的治理流程与运营。 受邀请的机构或团体成为**_“链接体”_**, 它可以是组织外部的团体，或者是组织内部的其他角色或圈子。接受链接体的圈子是 **“目标圈子”**，目标圈子必须是创建跨圈链接政策的圈子，或者它的某个子圈子。
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate in the Governance Process and operations of the Circle or one of its Sub-Circles. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**.
+一旦采纳了跨圈链接政策，链接体可基于本节条款指派一位代表加入目标圈子，除非在跨圈链接政策中有规定替代条款。
 
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+#### 2.7.1 跨圈链接角色
 
-#### 2.7.1 Cross Link Role
+如果链接体是一个角色， 那么该角色可以按照以下描述方式参与目标圈子。 这个角色成为 **“跨圈链接角色”**, 担任该角色的人成为**“跨圈链接”**。
 
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+如果链接体是一个圈子或团队， 那么一个新的有着特殊目的的跨圈链接角色就自动被创建，并且同时存在于链接体组织与目标圈子中， 与代表链接非常相似。 在这种情况下， 跨圈链接与代表链接有着相同的目的与职责， 只不过针对跨圈链接来讲圈子指的是链接体，上级圈子对应的是目标圈子。 
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+如果链接体缺失清晰的目的和职责界定， 那么跨圈链接政策必须进一步澄清跨圈链接在目标圈子中将代表什么。
 
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+#### 2.7.2 跨圈链接任命
 
-#### 2.7.2 Cross Link Assignment
+如果链接体是一个圈子或团体，则链接体可以基于其已有角色或工作职能委派流程指派跨圈链接。 
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+如果链接体是一个团体，但没有角色指派的权力， 那么目标圈子可以委任某人担任跨圈链接角色， 除非在跨圈链接政策中另有规定。
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+在所有情况下，每个跨圈链接只能由一人担任， 除非跨圈链接政策中另有许可。
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+当跨圈链接无人担任时， 则可以视为该角色不存在，没有缺省的任命或效果。
 
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+#### 2.7.3 跨圈链接的权力
 
-#### 2.7.3 Cross Link Authority
+跨圈链接成为目标圈子的核心成员， 可以行使核心成员的权力处理由目标圈对链接体的限制引起的相关张力。
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+然而，除了扫除对链接体的限制之外，跨圈链接不可以利用目标圈子为链接体构建更多能力， 除非这些能力也能帮助目标圈子的目的或职责的表达。 
 
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+#### 2.7.4 跨圈链接权力的增加
 
-#### 2.7.4 Additions to a Cross Link Role
+链接体可以通过自身的治理流程修改其跨圈链接角色。
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
+目标圈子可以通过其自身的治理流程给跨圈链接增加管辖领域或职责，且后期可以修改或移除任何增加内容。
 
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+#### 2.7.5 边界和委托
 
-#### 2.7.5 Boundaries and Delegation
+被邀请进入目标圈子的链接体可能是另外某个圈子中的某个角色。 在这种情况下，该圈子可能会根据其实际需要更换链接体，让圈子中其它角色来担任，或者将链接体的选择权委托给自己的子圈子。 
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+目标圈子也可以将接收跨圈链接的需求委托给它的子圈子，这种情况下该子圈子将成为跨圈链接的目标圈子。 
 
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
-
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+无论是以上的哪种情形， 任何委托都必须通过执行委托的圈子的政策进行。 而且，任何变化或委托都依然要和原先跨圈链接邀请政策中所规定的约束或指导保持一致。 
 
 ## Article 3: Governance Process
 
