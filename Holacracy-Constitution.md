@@ -374,13 +374,13 @@
 
 #### 3.3.4 议程创建
 
-The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+引导员必须在会议过程中向所有参会者征集和记录需要处理的张力议程。 这件事必须在会议上而不是会议外完成，每一位参会者可以根据需要添加任意多的议程项。在会议进程中，在处理现有议程的间隙期间，参会者还可以添加更多的议程。
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
-- **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
+- **(a) 议程格式:** 治理会议上的每一项议程代表一个待处理张力，该张力是由添加到议程上的成员所感知到的。 在添加一条议程时， 参会者只可以提供一个简短的标签用于标记张力，并且不可以解释或进一步讨论张力，直到真正开始处理这条议程。
+- **(b) 议程顺序:** 引导员可以使用任何自认为合适的流程和标准来决定议程处理的顺序。 但是，如果有任何圈子成员请求，引导员必须优先处理任何角色选举的议程。而且，如果本次会议是因某位成员请求而召集的特别会议，引导员必须把该成员所提出的所有议程排在所有其它议程之前，除非那位成员允许可以不这么做。
+- **(c) 处理议程:** 一旦引导员决定了议程的初步处理顺序，引导员必须引导参会者逐个处理每条议程，依次处理一项。 涉及角色选举的议程， 引导员必须应用章程 3.3.6 部分定义的**“整合选举流程”**。 涉及任何其它议程的处理，引导员必须应用章程 3.3.5 部分定义的**“整合决策流程”**。 
 
-#### 3.3.5 Integrative Decision-Making Process
+#### 3.3.5 整合决策流程
 
 The Facilitator must enact the Integrative Decision-Making Process as follows:
 
