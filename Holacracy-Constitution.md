@@ -261,116 +261,118 @@
 
 无论是以上的哪种情形， 任何委托都必须通过执行委托的圈子的政策进行。 而且，任何变化或委托都依然要和原先跨圈链接邀请政策中所规定的约束或指导保持一致。 
 
-## Article 3: Governance Process
+## 章节 3: 治理流程
 
-### 3.1 Scope of Governance
+### 3.1 治理范围
 
-The Governance Process of a Circle has the power to:
+圈子的治理流程拥有以下权限:
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for the Circle’s Elected Roles.
+- **(a)** 定义、修改或去除圈子中的角色及子圈子;
+- **(b)** 定义、修改或去除圈子中的政策；
+- **(c)** 选举圈子中的被选举角色。
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
+在任何时候，圈子的治理流程产出的结果立即生效成为圈子当下的**“治理”**。
 
-Only those outputs listed in this section are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
+只有在本节章程中列出的流程产出才能作为一个圈子的有效治理条例；任何人不得在圈子的治理记录上包含其产出内容。
 
-### 3.2 Changing Governance
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+### 3.2 改变治理
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+圈子中任何一位核心成员都可以提议改变圈子的治理， 可作为**“提案人”**提出一个**“提案”**。
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+在一项提案被采纳之前，圈子的所有核心成员都必须有机会提出因采纳该提案所引发的张力。在这种情形下，每一个被提出的张力（如果符合本节所定义标准的话）就视为一个 **“反对”**，提出反对的人就成为 **“反对者”**。
 
-#### 3.2.1 Making Proposals
+如果没有人提出反对，提案就被视为采纳，并对圈子的治理形成改变。 如果有反对， 提案人与每一位反对者务必要在圈子采纳该提案之前找到一个解决反对的方法，之后在新的提案被采纳之前，所有核心成员必须还有机会提出进一步的反对。 
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+#### 3.2.1 提出提案
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+任何圈子核心成员都可以在圈子的**“治理会议”** 上提出提案，治理会议的具体召集方式见本章程3.3条款。 
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+作为选择， 圈子的核心成员可以在治理会议之外，将提案异步地发送给所有的其他圈子核心成员，发送方式必须要经过圈子秘书同意用于此用途的书面沟通渠道。当这种情况发生时，引导员或者可以采纳在治理会议中采用的相同的流程和规则，或者也可以允许每一位圈子核心成员直接宣布他或她是否有需要整合的反对。此外，在一个异步提案被采纳之前的任何时间，引导员或圈子的任何核心成员可停止异步提案处理，要求提案人将提案上交到治理会议， 并通知圈子的秘书。
 
-#### 3.2.2 Criteria for Valid Proposals
+圈子可以制定相应政策， 进一步约束提案可以在什么时间以何种方式可以在治理会议之前进行提交和处理。 但是，任何政策都不得限制中止异步处理并升级到治理会议的权力。圈子还可以利用政策来限定对异步提案的回复时间期限，超过该时间段如果没有反对意见或升级到治理会议请求，该异步提案将自动被采纳。
 
-Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+#### 3.2.2 有效提案标准
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+有些提案在圈子的治理流程中是不被许可的， 引导员可以将这些提案在全面处理之前扔掉。
 
-#### 3.2.3 Testing Proposals
+作为一个有效提案，该提案必须解决或减轻提案人感知到的一个张力。 另外，提案通常必须有助于更好地表达提案人在圈子中某个角色的目的或一项职责。 不过， 一项提案也可以帮助另外一名圈子成员在圈子中的某个角色的表达，但前提条件是该成员已经授权提案人代表他或她的那个角色。
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+最后， 如果一个提案是为了帮助优化圈子的治理，对已经正在发生的活动能够有更清晰的治理结构，或就任何被选举角色触发一轮新的选举，该提案总是有效的，不需要符合以上标准。
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+#### 3.2.3 验证提案
 
-#### 3.2.4 Criteria for Valid Objections
+引导员可以通过向提案人提问来验证提案的有效性。 为了让提案能通过验证，提案人必须能够描述其张力，并且给出一个在过去或当前场景下的例子，解释为什么该提案在这种场景下是可以减轻那个张力，或者是以上一节所规定许可的某种方式帮助到圈子。 如果引导员认定提案人不能够满足这个门槛， 引导员必须丢弃该提案。
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+不过， 在评估提案的有效性时， 引导员只可以判断提案人是否陈述了所需要的例子和解释，以及陈述在逻辑推理上是否合理。引导员不可以依据陈述的准确性或该提案是否能够充分解决张力而做出判断。
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of one of the Objector’s Roles in the Circle; or, if it limits another Role, the Objector has permission to represent that Role from a Circle Member who normally fills the Role.
+#### 3.2.4 有效反对的标准
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+有些张力不能算作反对， 在处理提案时可以忽略这些张力。 要被算作反对， 一个张力必须满足以下a至d所有4个标准，或者满足在e中定义的特殊标准:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs per the terms of Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(a)** 如果该张力不被解决， 圈子表达其目的或履行其职责的能力将会退化。 因此，该张力不是因为有一个更好的主意或一个潜在的改进机会而触发的，而是因为该提案会实际上造成圈子当前能力的倒退。基于这条标准，降低清晰性可被所作能力退化，而只是未能提升清晰性则不算。
+- **(b)** 即使没有这个提案， 该张力在圈子里也未存在。因此，该张力正是因为采纳这个提案而引起的，提案如被撤销的话就不会存在。
+- **(c)** 该张力是由当前已知的事实或事件触发的，而不是依据未来可能会发生的一种预测。不过，如果在导致一些重大的影响之前，未来不太可能有机会对此有足够的感知和回应，这种情况下依靠预测也是被允许的。
+- **(d)** 该张力限制了反对者在圈子中某个角色表达其目的或某项职责的能力；或者，如果是限制了另外一个角色， 反对者从圈子中通常担任这个角色的某位成员处获得了代表该角色的许可。
 
-#### 3.2.5 Testing Objections
+然而，不管是否符合以上标准，如果一个张力满足下述条件就一定算作反对：
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+- **(e)** 处理或采纳这个提案违反了本章程定义的规则，或者促使圈子或圈子的成员在本章程授予的权力之外行事。比如，依据章程3.1部分的条款，下一步行动、项目、以及具体的运营决策是典型的非有效治理输出， 所有任何被涉及人员都可以提出一个反对，输出这些结果的提案将违反章程的规则。
 
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
+#### 3.2.5 验证反对
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+引导员可以通过询问反对者问题来验证一个反对是否有效。一个反对如果要通过有效验证，反对者必须要能够陈述一个合理的论证，证明为什么可以满足成为反对的各项标准。如果引导员认为反对者达不到这个要求，引导员必须要丢弃反对。
 
-#### 3.2.6 Rules of Integration
+在评估一个反对的有效性时， 引导员只可以评判反对者是否陈述了所需要的论证理由，以及论证的陈述是否合乎逻辑推理。 引导员不可以依据论证的准确度或重要性而做出评判。 
 
-When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
+不过，当有反对声明是基于提案违反了章程，根据3.2.4（e）的规定，引导员可以请求秘书诠释该提案是否真的违反了章程。如果秘书判定为没有违反，引导员就必须不予处理该反对。
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
-- **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
+#### 3.2.6 整合的规则
 
-### 3.3 Governance Meetings
+当针对一个提案的反对被提出时，在寻求解决方案的过程中还需遵循以下规则:
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+- **(a)** 圈子内任何核心成员如果提出要求验证某个反对，引导员必须验证该反对，一旦被验证不能满足本节所描述的有效性标准，就丢弃该反对。
+- **(b)** 反对者必须尝试对提案进行修改，修改后提案能够解决反对的张力，而且依然还能够解决提案人的张力。 其他人可以提供帮助。 在任何时候，如果引导员认为反对者没有做出真诚的努力寻求潜在的解决方案，引导员就必须判定反对被放弃，并继续处理提案，就好像该反对从未被提出。
+- **(c)** 圈子内任何核心成员都可以向提案人提出澄清类问题，关于提案背后的张力，或关于提案人分享的用于说明张力的案例。 在任何时候，如果引导员认为提案人没有做出真诚的努力回答那些问题， 引导员就必须判定该提案不适宜被处理，予以放弃。
+- **(d)** 反对者可以建议一个经修改的提案，并提供合理的论证为什么该提案可以解决或预防在提案人所涉及的各种场合下的张力。这时候，在反对者的请求下，提案人必须给出一个合理的理由为什么修改后的提案在先前提及的至少一个具体场合下不能给解决提案人的张力。 或者，提案人也可以提供一个额外的例子，说明为什么修改后的提案不能给解决其张力，但是该例子依然需要满足章程3.2.2部分关于提案处理标准的相关规定。如果引导员认为提案人不能给满足这些条件，引导员必须判定该提案不适宜被处理，予以放弃。
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+### 3.3 治理会议
 
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+圈子的秘书负责召集安排会议，以实施圈子的治理流程。
 
-#### 3.3.1 Attendance
+除了秘书安排的常规的、定期进行的治理会议之外，一旦收到来自圈子核心成员的请求，秘书有责任立即召集特别的治理会议。
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+引导员负责基于下述规则以及圈子的相关政策主持所有的治理会议。
 
-In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
+#### 3.3.1 出席会议
 
-Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+所有的圈子核心成员都享有全程参与所有治理会议的权利。 当值的引导员和秘书在治理会议过程中也有权利全程参与并成为圈子的核心成员，即使他们通常不是圈子的核心成员。
 
-#### 3.3.2 Notice & Quorum
+此外，主链接和任何代表链接或跨圈链接分别可以再邀请一名人员参会，其目的仅仅是帮助这些链接角色处理某个特定的张力。 受邀参会者也因此在本次治理会议过程中成为圈子核心成员。
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+除上述所列举人员之外，任何人不被允许参加一个圈子的治理会议，除非圈子的政策另有明确邀请。
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+#### 3.3.2 通知和法定人数
 
-Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+在一个治理会议召开之前，秘书需要合理提前通知圈子内所有核心成员关于会议的时间与地点，只有这样圈子才可以进入治理流程。
 
-#### 3.3.3 Meeting Process
+除了这条通知的需求之外，圈子不需要有关于法定人数的规定来进入治理流程，除非圈子的政策对此有特别规定。
 
-The Facilitator must use the following process for Governance Meetings:
+任何人如果缺席治理会议，将视为已经被给予机会考虑会议中的所有提案，并且对采纳这些提案没有任何反对。 
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
-- **(c) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+#### 3.3.3 会议流程
 
-A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+引导员必须基于以下流程主持治理会议:
 
-#### 3.3.4 Agenda Building
+- **(a) 签到环节:** 引导员允许每位参会者依次分享他们当前的状态或想法， 或其它类型的会议开场白。 其他人不允许回应。
+- **(b) 行政要务:** 引导员利用这个时间讨论和解决任何他或她认为值得注意的行政与后勤事务。
+- **(c) 议程创建及处理:** 引导员创建需要处理的张力议程，然后依次处理每条议程。
+- **(d) 结束环节:** 引导员允许每位参会者依次分享会议结束反思，或会议引发的其它思考。 其他人不得回应。
+
+圈子的某项政策可以增加到该流程中，但不可以与本部分章程中所定义的任何步骤或规则相冲突。
+
+#### 3.3.4 议程创建
 
 The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
 
