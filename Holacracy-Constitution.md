@@ -382,51 +382,51 @@
 
 #### 3.3.5 整合决策流程
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+引导员必须按照以下流程实施整合决策流程：
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **(a) 陈述提案:** 首先，提案人描述张力，并且陈述一个解决该张力的提案。如果提案人要求帮助制定提案，引导员可以允许以讨论或其它方式的协作流程来予以帮助。不过，引导员必须将该活动的焦点放在为解决提案人的张力而制定出一个初始提案， 而不能是解决其它张力，或整合其他人的问题到提案中。
+- **(b) 澄清提问:** 一旦提案人有了一个提案，其他参会者可以向提案人提出澄清性的问题，目的是为了更好地理解提案或提案背后的张力。提案人可以回答每一个问题，或者也可以拒绝回答。 引导员必须禁止发表任何针对提案的回应或意见，并且阻止任何形式的讨论。 在这个环节或者在参会者可以说话的任何时间点， 任何参会者都可以请秘书读出已记录的提案，或对现有的治理进行澄清，秘书不能拒绝。 
+- **(c) 回应环节:** 一旦没有更多的澄清性问题，除提案人之外每一位参会者可以分享对于提案的回应，一次只允许一个人分享。 引导员必须立即打断并禁止任何不按顺序的发言，任何以对话或其它方式与别人交流的尝试， 以及任何非针对提案而是针对其他人回应的回应。
+- **(d) 修改&澄清:** 回应环节之后，提案人可以就大家的回应分享想法，并且对提案做一些修改。 不过，任何修改的主要意图必须是为了更好地解决提案人的张力，而不是为了解决其他人提出的张力。 在这一步，引导员必须立即打断并禁止除提案人或秘书之外任何人的发言， 并且秘书的发言也必须聚焦在记录经修改的提案。 
+- **(e) 反对环节:** 接下来， 每位参会者都可以依次就采纳该提案提出可能的反对。 引导员必须打断并禁止任何形式的讨论或回复。 引导员可以遵照章程 3.2.5所描述的方式验证反对， 并且必须记录验证通过之后的任何有效反对。 如果没有有效的反对， 秘书记录下提案， 作为已被采纳的圈子治理。 
+- **(f) 整合环节:** 如果有有效反对， 引导员随之要引导讨论，对提案进行修改以解决反对者的张力，一次只处理一个反对。 一旦反对者确认经修改后的提案不会触发反对，并且提案人确认修改后的提案依然可以解决提案人的张力，引导员就标记该反对被解决。 在讨论期间，引导员必须遵循章程 3.2.6 描述的整合规则。 一旦所有的反对都被解决了， 引导员就回到反对环节，查看对修改后的提案是否有新的反对。 
 
-#### 3.3.6 Integrative Election Process
+#### 3.3.6 整合选举流程
 
-The Facilitator must enact the Integrative Election Process as follows:
+引导员必须依据以下规则实施整合选举流程：
 
-- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
-- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
-- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
-- **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
+- **(a) 描述角色:** 首先，引导员必须确定待选举的目标角色及任期。 引导员也可以描述目标角色的职能， 以及关于该角色的其它相关信息。
+- **(b) 填写选票:** 每位参会者必须填写一张选票，在所有有资格的候选人中提名一位自认为最合适于该角色的人选。 在选票上每位参会者也必须标记自己的名字，不允许弃权或一次提名多人。在这个步骤之前或进程中，引导员必须立刻阻止关于潜在候选人或提名人的任何评论或讨论。
+- **(c) 提名环节:** 一旦所有选票都上交完毕， 引导员必须分享每张选票内容，当着所有成员面前一次公布一张选票。 当引导员公布某张选票时， 提名人必须说明为什么他或她相信该候选人是该角色的最适合人选。 引导员必须制止任何回应或评论，包括提名人关于其他候选人的评论。 
+- **(d) 提名改变环节:** 一旦所有的提名被宣布， 引导员必须给予每位参会者改变他或她的提名的机会。 更改了提名的参会者可以解释为什么他或她选择这位新的候选者， 但是引导员必须制止任何其它评论或讨论。 
+- **(e) 拟定提案:** 接下来，引导员必须对清点提名，并拟定议程，选择得票数最多的候选人在制定任期内担任该角色。 如果得票最多的不止一人，引导员可以采用以下任何一种方式：(i) 随机从得票数相同的候选人中盲选一位，并提议该候选人； (ii) 如果目前担任该角色的候选人是其中之一，则选择该候选人； (iii) 如果在得票数相同的候选人中，有一个候选人选择了自己，则选择该候选人； (iv) 回到先前的步骤，让那些选择了非得票数最多的候选人的参会者从得票数最多的候选人中选择一人，然后进入到这一步并且重新应用这些规则。
+- **(f) 处理提案:** 一旦提案人拟定了一个候选人提案， 引导员必须进入到整合决策流程来处理该提案。 不过， 引导员必须直接从反对环节开始， 并且如果候选人也在场，引导员必须最后一个询问该候选人是否反对。 如果有任何反对被提出，引导员可以选择对它们按照正常流程处理，或者要不在反对环节结束之后立即取消提案，或者在整合步骤的的任何时间点取消该提案。如果引导员选择取消该提案，引导员必须回到流程的先前步骤， 取消对这位候选人的所有提名，并且基于先前流程的规则重新选择并提议一位新的候选人。
 
-#### 3.3.7 Operational Decisions in Governance Meetings
+#### 3.3.7 治理会议中的运营决策
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+治理会议主要用于支持圈子的治理流程。 只要不偏离这个焦点，任何参会者都可以在治理会议流程中接受项目或下一步行动，或者做出一些圈子治理流程之外的运营决策。 不过， 在圈子的正式治理会议纪要和记录中，秘书不可以记录任何运营输出或决策。 并且，在治理会议上达成的运营输出和决策与治理会议之外达成的决定并没有特殊的权力与优先级上的不同。
 
-### 3.4 Interpreting the Constitution & Governance
+### 3.4 章程与治理的解释
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+作为组织中的伙伴，你可以利用你的合理判断对本章程以及组织中的任何治理进行解释，包括在特定场合下如何应用这些规则，然后基于你的理解采取行动。 你也可以依据所涉及圈子的秘书所提供的明确解释。不管是哪一种情况，都还需要遵循以下条款:
 
-#### 3.4.1 Secretary Interpretation Trumps
+#### 3.4.1 以秘书的解释为准
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+如果你的解释与秘书的裁定解释有不一致， 以秘书的为准， 并要采用秘书的解释。你有责任与秘书的裁决保持一致，除非与此裁决相关的治理有变更。
 
-#### 3.4.2 Super-Circle Interpretation Trumps
+#### 3.4.2 以上级圈子的解释为准
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+一个圈子的秘书可以否决任何来自其子圈子秘书的解释。如果两个秘书给出相矛盾的裁决，并且一个秘书所在的圈子最终包含了另外一个秘书所在的圈子， 那么你有责任与范围更广的那个圈子的秘书所做出的解释保持一致。
 
-#### 3.4.3 Interpretations Become Standards
+#### 3.4.3 解释成为标准
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+在对某个解释做出裁决之后，秘书可以选择在圈子的治理记录中公布该解释及其背后的逻辑。 一旦公布，该圈子以及它所包含所有子圈子的秘书有责任在未来的裁决中，与先前公布的逻辑及解释保持一致。
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+只有在出现有一个新的强有力论证或环境支持相反裁决的情况下， 秘书才可以反驳先前已公布的逻辑或解释。 一旦反驳成功被接受， 新的逻辑和解释成为当前的标准，未来裁决必须与之保持一致。
 
-#### 3.4.4 Striking Invalid Governance
+#### 3.4.4 删除无效治理
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
+圈子的任何成员都可以请求圈子的秘书针对圈子的治理或圈子所包含的任何角色或子圈子做出是否有效的裁决。一旦接受到这样的请求，如果秘书认定该治理与本章程的规则有矛盾，秘书必须 Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
 
 ### 3.5 Process Breakdown
 
