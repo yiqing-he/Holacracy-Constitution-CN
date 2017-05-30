@@ -426,39 +426,40 @@
 
 #### 3.4.4 删除无效治理
 
-圈子的任何成员都可以请求圈子的秘书针对圈子的治理或圈子所包含的任何角色或子圈子做出是否有效的裁决。一旦接受到这样的请求，如果秘书认定该治理与本章程的规则有矛盾，秘书必须 Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
+圈子内任何成员都可以请求圈子的秘书针对圈子的治理或圈子所包含的任何角色或子圈子做出是否有效的裁决。一旦接受到这样的请求，如果秘书认定该治理与本章程规定有矛盾，秘书必须从现行治理记录中将该治理删除。 之后， 秘书必须及时告知该无效治理所在圈子内的所有核心成员被删除内容及原因。 
 
-### 3.5 Process Breakdown
+### 3.5 流程中断
 
-A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+当一个圈子表现出的行为模式与本章程规则相矛盾时，即构成 **“流程中断”** 。
 
-#### 3.5.1 Breakdown from Failed Governance
+#### 3.5.1 失败的治理会议引起的流程中断
 
-The Facilitator of a Circle may declare a Process Breakdown in the Circle if the Core Circle Members fail to successfully process a Proposal in a Governance Meeting, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
+如果圈子核心成员在治理会议上处理一个提案时即使在花费了相当长时间时候也未能有成功解决， 该圈子的引导员可以宣布流程中断。 如果是因提案人专门就处理该提案召集的专项治理会议，这种情况下该提案人也可以宣布流程中断。
 
-#### 3.5.2 Breakdown from Unconstitutional Behavior
+#### 3.5.2 不符合章程规定行为引起的流程中断
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+在圈子的引导员发现某个子圈子内有某种行为模式或治理输出与本章程规定有矛盾时，圈子引导员可以宣布该子圈子流程中断。不过，如果该引导员同时也是那个子圈子的引导链接或引导员， 那么上级圈子的秘书或代表链接也可以做出这种宣布。
 
-#### 3.5.3 Process Restoration
+#### 3.5.3 流程恢复
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+无论任何时候某个圈子被合法宣布流程中断，将触发以下事件:
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
+- **(a)** 其上级圈子的引导员获得一个项目，恢复该圈子的特定流程；
+- **(b)** 同时，上级圈子的引导员获得接管该圈子的引导员或秘书的权力，或者委任其他人担任这些角色； 
+- **(c)** 同时，该圈的引导员获得在圈子治理流程中对所陈述论点准确性的判断权，用于验证张力或反对。
 
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
+这些权力都是暂时性的，一旦上级圈子的引导员认定该圈子内的相关流程已经被恢复，这些权力就自动终止。
 
-#### 3.5.4 Escalation of Process Breakdown
+#### 3.5.4 流程中断的升级
 
-A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
+只要其上级圈子的引导员正在及时且尽责地某个圈子的流程中断，该圈子的流程中断不等同于其上级圈子的流程中断。
 
-However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
+不过， 如果在一个合理时间范围内该流程中断没有被解决， 那么最终包含该圈子的任何上级圈子的引导员就可以宣布该圈子的上级圈子同样发生流程中断。
 
-## Article 4: Operational Process
 
-### 4.1 Duties of Circle Members
+## Article 4: 运营流程
+
+### 4.1 圈子成员的义务
 
 When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
 
