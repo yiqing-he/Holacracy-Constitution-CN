@@ -345,7 +345,7 @@
 
 引导员负责基于下述规则以及圈子的相关政策主持所有的治理会议。
 
-#### 3.3.1 出席会议
+#### 3.3.1 会议
 
 所有的圈子核心成员都享有全程参与所有治理会议的权利。 当值的引导员和秘书在治理会议过程中也有权利全程参与并成为圈子的核心成员，即使他们通常不是圈子的核心成员。
 
@@ -457,159 +457,163 @@
 不过， 如果在一个合理时间范围内该流程中断没有被解决， 那么最终包含该圈子的任何上级圈子的引导员就可以宣布该圈子的上级圈子同样发生流程中断。
 
 
-## Article 4: 运营流程
+## 章节 4: 运营流程
 
 ### 4.1 圈子成员的义务
 
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+当你在圈子内担任某个角色时，你对圈子内其他成员在基于他们在圈子内的角色开展行动时负有如下义务：
 
-#### 4.1.1 Duty of Transparency
+#### 4.1.1 透明的义务
 
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+当圈子内其他成员就以下领域向你提出请求时，你有提供相关透明信息的义务:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
+- **(a) 项目&下一步行动:** 你必须分享你在本圈子内的角色目前正在跟进的任何项目及下一步行动。
+- **(b) 相对优先级:** 你必须分享你就本圈子内你的角色下所有项目和行动相对于其它任何可能影响你的注意力与资源分配活动的相对优先级判断。
+- **(c) 预测:** 针对本圈子内你的角色下任何项目或下一步行动, 你必须提供一个预期完成的时间预测。 你只需要提供一个粗略的估计，要考虑到你当前的背景与优先级，但不需要有详细的分析或计划。 除非在治理中另有要求，这种预测不构成任何方式的有约束力的承诺，你没有任何义务跟踪这种预测，或者为达成它而管理你的工作， 或者在有变动情况下通知接受者。
+- **(d) 检查项&指标:** 你必须分享你是否完成了你在本圈子内的角色需要做的任何常规的、周期性的行动。 你还必须跟踪和汇报指派给你在圈子内的角色上的任何指标（metrics）， 该指标是由圈子的主链接、或者经授权设定圈子指标的任何其他角色或流程指派的。
 
-#### 4.1.2 Duty of Processing
+#### 4.1.2 处理请求的义务
 
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+你有义务及时处理来自于圈子内其他成员的信息和请求，如下所述:
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
+- **(a) 关于处理的请求:** 圈子内其他成员可以要求你处理你在圈子内担任角色下的任何职责或项目。 如果针对该请求你尚未有任何下一步行动， 如果有任何合理的下一步行动你可以采取，你必须发现并添加该下一步行动。 如果没有的话，你必须说明你在等待什么。 这可以是由另外一个角色负责的一个下一步行动或项目，或者是在你能够采取下一步行动之前必须发生的一个特定的事件或条件。
+- **(b) 关于项目&下一步行动的请求:** 圈子内其他成员可以要求你基于你在圈子内的角色承担一个特定的下一步行动或项目。 如果你认为这是一个合理的下一步行动或项目， 你必须接受并添加到跟踪清单。 如果你认为不是，要么你解释你的理由，要么你与其沟通并添加一个你相信能够满足请求者目标的下一步行动或项目。
+- **(c) 关于管辖领域的请求:** 圈子内其他成员可以要求影响你在圈子内的角色所控制的某个管辖领域。如果你没有有效的反对，你必须接受请求。 如果你有，你必须向请求者解释你的反对原因。
 
-#### 4.1.3 Duty of Prioritization
+#### 4.1.3 设置优先级的义务
 
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
+你有义务遵循以下约束条件优先分配你的注意力和资源:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
-- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+- **(a) 处理优先于执行:** 通常情况下，你必须优先处理来自于圈子内其他成员的请求信息，然后再执行你自己的下一步行动。 不过，只要你依然是在合理时间段内及时的予以处理，你可以暂时延缓，以便于在某一个时间段或更合适的时间集中批量处理请求。处理意味着履行本节章程所描述的义务，包括考虑请求的信息，设定并添加适当的下一步行动或项目， 以及在有成员询问时回复其请求信息的处理方式。 处理并不意味着执行已被添加的下一步行动和项目，设置优先级的义务中不包含这些执行活动。
+- **(b) 已安排会议优先于执行:** 在圈子的某位成员请求下， 你必须优先参加本章程所要求的任何圈子会议， 然后再执行你自己的下一步行动。不过，你依然可以拒绝该请求，前提是在该会议时间你已经安排有计划， 或者这是一个持续会议系列或模式，而不是一个特定的会议。
+- **(c) 圈子需要优先于个人目标:** 在评估如何在圈子内调配你的时间、注意力和其它资源时，你必须整合并遵循圈子的任何官方优先级设定或战略， 比如与那些由圈子主链接设定的圈子优先级保持一致。
 
-#### 4.1.4 Links May Convey Duties
+#### 4.1.4 链接类角色可传递责任
 
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
+作为主链接、代表链接或进入到目标圈子内的跨圈链接，你可以邀请其他人进入到圈子，他们可以要求圈子成员履行本部分章程所规定的义务。 你只可以邀请别人协助处理影响你所来自组织的某个具体的张力，并且你也感知到该张力并参与张力处理。 仅当直接处理该张力时，你所邀请的人暂时性地成为完整的圈子成员，就好比他或她也担任你的链接角色。你可以在任何时间撤回该邀请。
 
-#### 4.1.5 Implicit Expectations Hold No Weight
+#### 4.1.5 隐性期望不具备效力
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+作为组织中的一名伙伴，你的所有责任及约束都在本章程以及由本章程派生出来的治理条例中有定义。 先前的、或隐性的的一些期望或约束，除非在圈子的治理中有明确的权力授予，或者是基于你个人必须或与组织一起要遵守的基本责任或合同约定，否则他们不具有任何重要性或效力。
 
-### 4.2 Tactical Meetings
 
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
+### 4.2 战术会议
 
-#### 4.2.1 Focus & Intent
+圈子的秘书负责安排定期的 **“战术会议”** ，用于促进圈子的运营工作。 引导员负责主持战术会议，并遵守以下规则以及圈子内的相关政策。
 
-Tactical Meetings are for:
+#### 4.2.1 焦点 & 意图
 
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
+战术会议是用于:
 
-#### 4.2.2 Attendance
+- **(a)** 分享圈子内角色所拥有检查项上的周期性行动的完成状态;
+- **(b)** 分享分配到圈子内若干角色需要汇报的定期指标;
+- **(c)** 分享由圈子内角色承担的项目及其他工作的进展更新; 以及
+- **(d)** 处理限制圈子角色的张力，将它们变成下一步行动、项目、或其它有助于减少张力的输出。
 
-All Core Circle Members and anyone else normally invited to participate in the Circle’s Governance Meetings are also invited to participate in its Tactical Meetings, unless a Policy says otherwise. There is no advance notice or quorum required for a Tactical Meeting, unless a Policy says otherwise.
+#### 4.2.2 出席会议
 
-#### 4.2.3 Facilitation & Process
+圈子的所有核心成员以及通常被邀请参加圈子治理会议的任何人也都可以被邀请参加圈子的战术会议，除非圈子的政策另有规定。战术会议没有有关于提前通知或参会人数的要求，除非圈子的政策另有规定。
 
-The Facilitator must normally use the following process for Tactical Meetings:
+#### 4.2.3 引导与流程
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+通常引导员必须采用以下流程引导战术会议:
 
-A Circle may adopt a Policy to add to or change this required process.
+- **(a) 签到环节:** 引导员允许每位参会者依次分享他们当前的状态或想法，或提供其它方式的开场白。 不允许有相互回应。
+- **(b) 检查项回顾:** 引导员要求每位参会者确认是否完成了各自检查项中的周期性的行动。 
+- **(c) 指标回顾:** 引导员要求每位参会者分享由引导链接或有权定义圈子指标的角色或流程分配给他们角色的相关指标的数据。
+- **(d) 进度更新:** 引导员要求每位参会者突出重点地描述在完成某个项目或者他们在圈子中所担任任何角色的任何职责表达方面的进展。参会者仅需要分享自上次汇报之后的进展， 而不是一个项目或职责的总体状态。每位参会者可以决定哪一个项目或职责值得分享报告， 不过如果有圈子的其他成员明确要求就某个具体项目的进度更新，则这个项目就必须被包含，直到该项目完毕或被取消。 针对某个子圈子的项目或职责的进度更新， 引导员必须允许该子圈子的主链接和代表链接都有分享机会。
+- **(e) 诊断问题:** 引导员有责任应用与治理会议相同的规则，具体规定见章程 3.3.4，向所有的参会者征集需要讨论事项，构建一个在战术会议上进行张力处理的议程。 不过， 在战术会议上，引导员只是允许议程项的提出者与那些有相关角色或义务的成员进行交流，直至他们找到解决张力的一个途径。 在这场讨论中，如果有任何下一步行动或项目被确定，秘书有责任做记录并将会议输出发送给所有参会者。 引导员必须力争在会议时间内处理完所有的议程，因此引导员可以终止处理那些在会议剩余时间内耗用时间过多的议程项。 
+- **(f) 结束环节:** 引导员允许每位参会者依次分享会议结束感想，或者由会议引发的其它想法。 不允许有相互回应。
 
-#### 4.2.4 Surrogate for Absent Members
+圈子可以采纳政策增加或改变这个必须的流程。
 
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
+#### 4.2.4 缺席成员的代理人
 
-### 4.3 Individual Action
+在战术会议上，如果因为某人的缺席导致该圈子的某个被定义角色完全或者部分地没被代表， 该圈子的主链接可以代为行使该角色以填补空缺。 如果主链接也缺席，任何参会成员可以代表这个角色接受下一步行动或项目， 不过正常填充该角色的成员可以将这些下一步行动或项目仅仅当作是基于章程 4.1.2（b）条款所做出的请求。
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+### 4.3 个人行动
 
-#### 4.3.1 Allowed Situations
+作为组织的一名伙伴，在某些情况下你可以被授权超越你的角色权限去行动，甚至是打破本章程中的一些规则。 基于这种被拓展权限下的行动，你是在行使**"个人行动"**，并且你需要遵守以下规则：
 
-You may only take Individual Action when all of the following are true:
+#### 4.3.1 适用情形
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
-- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+仅当以下所有条件都成立时，你才可以采取个人行动:
 
-#### 4.3.2 Communication & Restoration
+- **(a)** 你是真诚地服务于组织内的某个角色或整个组织自身的目的或表达其职责。
+- **(b)** 你有理由相信你的行动可以为组织解决或预防而不是制造更多的张力。
+- **(c)** 你的行动不会引起、承诺或允许超越你的权限的花费，或者甚至是处置组织的资源或其它资产
+- **(d)** 如果你的行动会冒犯任何管辖领域或政策，你有理由相信，如果你不及时采取行动，而是等待通常所需要的许可或者提交治理来赋予你行动的权力，你将大大损失潜在的价值。
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+#### 4.3.2 沟通与恢复
 
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
+在采取个人行动时，你有义务向任何可能受到重大影响的角色填充人解释你的行动以及背后的意图。 如果这些人中有任何人提出要求，你同时还有义务采取任何适当的行动来辅助于因为你的个人行动而造成的张力。
 
-#### 4.3.3 Clarifying Governance
+如果你的个人行动是在切实履行另外一个角色、或者违反了某个管辖领域或政策， 那么控制该角色、管辖领域或者政策的任何人或者受到影响的圈子的主链接一旦提出要求，你就必须停止继续采取类似的个人行动。
 
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
+#### 4.3.3 理清治理
 
-#### 4.3.4 Priority of Corollary Requirements
+如果你的个人行动是某个圈子需要的周期性活动或持续的功能，并且该活动或功能在圈子的治理中还没有明确的规定，你有责任采取进一步的行动来消除这个空白。 进一步的行动可以包括提出治理提案来弥补该需要，或者干脆采取行动让发生这种行动或功能的需要不复存在。
 
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+#### 4.3.4 优先处理个人行动引发的需求
 
-## Article 5: Adoption Matters
+采取个人行动之后，你有义务优先处置本节章程所规定的由个人行动引起的后续需求， 该优先级高于任何你的常规工作。 不过，包含因你的个人行动而受重大影响的所有角色的圈子的主链接仍然可以改变这个默认优先级。
 
-### 5.1 Ratifiers Cede Authority
+## 章节 5: 启动事宜
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+### 5.1 掌权人交出权力
 
-### 5.2 Anchor Circle
+通过启用该章程， 掌权人放弃其管理和运营组织或指挥组织中的伙伴的权力，并且以后他们也不再可以这么做，除非是依据本章程的规则与流程授予的权力。 不过，作为这条规则的例外， 掌权人可以继续持有且行使任何他们没有权力下放的权力，比如那些在他们控制之外的政策或组织的规章制度所规定的那些事情。
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
+### 5.2 根本圈子
 
-#### 5.2.1 Links to the Anchor Circle
+在启用本章程之后， 掌权人必须建立一个初始的圈子来表达组织的总目的。 这个**“根本圈子”** 成为该组织中范围最大的圈子，并且自动控制该组织自身控制的所有管辖领域。
 
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
+#### 5.2.1 根本圈子中的链接角色
 
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+掌权人可以为根本圈子指派一位初始的主链接。
 
-#### 5.2.2 Acting Without a Lead Link
+或者， 掌权人也可以让根本圈子的主链接空缺， 并且创建一位或多位跨圈链接进入到根本圈子，以取缔主链接。
 
-If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article 3.
+#### 5.2.2 没有主链接下的行动
 
-Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to autocratically impact Circle Domains (per Section 2.1.2) is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
+如果根本圈子没有主链接， 所有通常需要主链接所做的决策成为该圈子治理流程中的有效输出。圈子中的任何角色因此都可以基于本章程第三章规定的流程与规则，通过为圈子提议治理改变的决策而行使主链接的权力。
 
-#### 5.2.3 Organization’s Purpose
+另外， 在缺失主链接的根本圈子里， 圈子内角色正常影响圈子的管辖领域的自主权(见章程2.1.2)被取消。 如果圈子内的角色要影响圈子的管辖领域，必须要得到明确的政策许可，或者使用圈子的治理流程，通过提交行动建议，正如以上所描述的行使主链接的权力方式完全相同。
 
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
 
-The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
+#### 5.2.3 组织的目的
 
-If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
+根本圈子自动被赋予发现和表达整个组织的目的的职责。 组织的目的是在考虑到所有的约束和所有的资源条件下， 该组织能够在这个世界里可持续地表达其最深层次的创造性潜力。这包括组织的历史、当前的能力、可用的资源、组织内伙伴、个性、文化、业务结构、 品牌、市场知名度、 以及所有其它相关资源或因素。 
 
-#### 5.2.4 Updating the Anchor Circle
+根本圈子的主链接默认继承了该职责，并且可以记录和更新组织的目的来表达这个职责。
 
-The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+如果根本圈子没有主链接，该职责就自动落在根本圈子内的每一位跨圈链接角色上，并且他们中的任何人都可以通过圈子的治理流程提议修改组织的目的。
 
-The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
+#### 5.2.4 更新根本圈子
 
-#### 5.2.5 No Super-Circle
+根本圈子的主链接有权为圈子命名、界定圈子的管辖领域、并且增加或修改其职责。 
 
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+根本圈子的主链接还可以根据自己的意愿指派他或她的替代者，除非掌权人明确规定不允许这样做。
 
-### 5.3 Initial Structure
 
-The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
+#### 5.2.5 没有上级圈子
 
-### 5.4 Legacy Policies and Systems
+根本圈子没有上级圈子，并且不选举代表链接。 
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
+### 5.3 初始结构
 
-However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
+根本圈子的主链接可以在本章程所要求的通常治理流程之外为组织定义一个初始结构和其它治理。 如果该初始结构包括有其它的圈子，这些圈子的主链接也可以在他们自己的圈子同样这么做。 这个权力仅可以被用于定义一个圈子的初始结构，并且要在圈子开始实施其治理流程之前。 
 
-### 5.5 Constitution Amendments and Repeal
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+### 5.4 遗留政策和系统
+
+在采用本章程之前组织中现行的政策和系统在本章程被采用之后继续完全有效， 即使它们包含没有在治理记录中所登记的约束或权力。 这包括薪酬系统、招聘和辞退流程、工作相关的政策，等等。
+
+不过，只要有新的治理条例可以替换这些遗留政策及系统，或者与它们相冲突，这些政策和系统将立即丧失效用和权力。 并且，它们不可以被修改或添加到它们的遗留形式中。 任何希望这样做的人，都必须首先使用本章程所定义的治理流程来记录或者授予这些遗留政策和系统必要的权力。
+
+### 5.5 章程修订及废止
+
+掌权人或他们的继任者可以修订或完全废止本章程，基于他们在采用本章程所依赖的任何权力及流程。 章程的修订必须是以书面形式，并且要公开发布让组织中所有伙伴都能够看到。 
 
 ---
 
