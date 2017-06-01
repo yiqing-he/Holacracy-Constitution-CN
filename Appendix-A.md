@@ -1,9 +1,9 @@
-#**附录 A**
+# **附录 A**
 
-##预定义角色
+## 预定义角色
 
 
-###主链接
+### 主链接
 
 **目的:**
 _主链接为整个圈子的目的负责_
@@ -25,37 +25,37 @@ _主链接还承担圈子层级所有未被委托出去的管辖领域及职责�
 
 
 
-###代表链接
+### 代表链接
 
 **目的:** 在上级圈子，代表链接为子圈子的目的负责；在子圈子内，代表链接的目的是所有需要在上级圈子处理的相关张力都有渠道收集到并解决。
 
 **职责:**
 
-- Removing constraints within the broader Organization that limit the Sub-Circle
-- Seeking to understand Tensions conveyed by Sub-Circle Circle Members, and discerning those appropriate to process in the Super-Circle
-- Providing visibility to the Super-Circle into the health of the Sub-Circle, including reporting on any metrics or checklist items assigned to the whole Sub-Circle
+- 在更大范围的组织里消除限制子圈子的一些约束
+- 寻求理解由子圈子成员传达的张力，并鉴别出那些适合在上级圈子中处理的张力
+- 向上级圈子提供子圈子的健康状况可视度， 包括汇报那些分派给整个子圈子的指标或行动检查项
 
 
 ###引导员
 
-**目的:** Circle governance and operational practices aligned with the Constitution.
+**目的:** 圈子的治理与运营实践与章程保持一致
 
 **职责:**
 
-- Facilitating the Circle’s constitutionally-required meetings
-- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
+- 引导圈子内章程规定的所有会议
+- 根据需要审计子圈子的会议及记录， 并且在发现一些行为模式与章程中的规则不一致时宣告流程中断
 
 
 ###秘书
 
-**目的:** Steward and stabilize the Circle’s formal records and record-keeping process.
+**目的:** 管理圈子的正式记录并保持圈子记录流程的稳定
 
 **管辖领域:**
 
-- All constitutionally-required records of the Circle
+- 圈子中所有章程所规定的记录
 
 **职责:**
 
-- Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
-- Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
-- Interpreting Governance and the Constitution upon request
+- 安排圈子需要的会议，并通知圈子所有核心成员会议的时间与地点。
+- 记录并发布圈子所需要会议的结果输出，并维护圈子当前治理、检查项、指标的编录视图
+- 依据请求解释治理及章程条款
